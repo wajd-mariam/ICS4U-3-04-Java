@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The program Towers.java uses recursion to solve the tower of Hanoi problem.
 *
 * @author  Wajd Mariam
